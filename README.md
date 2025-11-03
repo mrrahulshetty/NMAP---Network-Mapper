@@ -808,7 +808,7 @@ Nmap itself is licensed under its custom license (free for use and redistributio
 
 ## 👨‍💻 Author
 
-**Harsh Dhakate**  
+**Rahul T N**  
 MTech Cybersecurity Student  
 MIT
 
